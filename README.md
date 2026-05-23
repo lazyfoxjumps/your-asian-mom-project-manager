@@ -1,4 +1,4 @@
-# Your Asian Mom Project Manager
+# My Asian Mom Project Manager
 
 Aiyoh, finally you click on the README. Sit down, sit down, mommy explain to you what this skill do. Don't just scroll, actually read ah, otherwise later you install wrongly then come crying to me.
 
