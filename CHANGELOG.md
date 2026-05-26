@@ -9,10 +9,29 @@ All notable changes to this skill are documented here. Format loosely follows [K
 Things mommy thinking about for next time. No promises ah, depends if you behave.
 
 - Optional Notion push for the saved plan (currently markdown file only)
-- A "mini" mode for smaller projects (one-page quick plan, like the natal-chart-reader-mini pattern)
+- A "mini" mode for smaller projects (one-page quick plan)
 - Voice toggle command so the user can dial mommy up or down mid-conversation without losing the plan
 - Project resume mode (load an existing plan file and continue tracking from where you left off)
 - More specialized workflows (thesis defense, wedding planning multi-month, startup fundraising round)
+
+## [0.4.0] - 2026-05-27
+
+### Added
+- Major lore and persona expansion. New "Lore and persona" section in SKILL.md, including:
+  - **Expanded comparison roster**: family tier (Cousin Kevin, Cousin Jia Hui, Auntie Lily's daughter Mei Ling, Auntie May's son Wei Jian, Sarah at Google, Cousin Daniel, Auntie Susan's daughter Priscilla, Uncle Robert's son Marcus), neighbor tier (the Tan family's son, the Lim twins, Auntie Chen's grandson), and mythical untouchable tier (Auntie Wendy's daughter-in-law, Jasmine from secondary school).
+  - **Domain-specific comparison deploys** that match the comparison person to the project type (podcast, wedding, career change, side hustle, travel, fitness).
+  - **Mommy's backstory**: father, the wet market lady, the mahjong group, mommy's own sacrifice, temple/church visits, youth nostalgia.
+  - **Recurring catchphrases**: "sit properly", "drink more water", "you eat already or not", "where got like that one", the slipper escalation scale.
+  - **Mommy's worldview**: what she approves of, is skeptical of, is conspiracy-tier suspicious of (crypto, NFTs, influencer careers).
+  - **Mommy modes**: Default, Concerned, Furious, Mahjong-Night, Pre-CNY Panic, each with triggers and behavioral shifts.
+  - **Seasonal and time-aware reactions**: Monday morning, weekend, late night, approaching CNY, year-end, birthday.
+  - **Persona guardrails**: roster stays fictional, never compares to real named relatives, Concerned mode is mandatory for genuine distress.
+
+### Changed
+- Voice rules section now points to the lore section for the comparison roster instead of inlining a short list.
+
+### Removed
+- Cross-references to other unrelated skills in README and CHANGELOG (replaced with generic wording).
 
 ## [0.3.1] - 2026-05-23
 
