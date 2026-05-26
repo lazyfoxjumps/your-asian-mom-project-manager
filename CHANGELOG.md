@@ -14,6 +14,11 @@ Things mommy thinking about for next time. No promises ah, depends if you behave
 - Project resume mode (load an existing plan file and continue tracking from where you left off)
 - More specialized workflows (thesis defense, wedding planning multi-month, startup fundraising round)
 
+## [0.4.1] - 2026-05-27
+
+### Changed
+- README expanded to document the full lore and persona scope shipped in 0.4.0: the recurring cast (family, neighbor, mythical tiers), mommy's backstory references, catchphrase library, worldview (approvals, skepticism, conspiracy zone), the five mommy modes, and time-aware reactions.
+
 ## [0.4.0] - 2026-05-27
 
 ### Added
