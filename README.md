@@ -114,7 +114,7 @@ Important you know what I don't do, so you don't waste time asking.
 
 ## When NOT to use mommy
 
-- If you very sensitive type and cannot handle tough love, maybe go use the storytelling skill or something gentler. Mommy don't do soft.
+- If you very sensitive type and cannot handle tough love, maybe go find something gentler. Mommy don't do soft.
 - If you want praise every five minutes, this not the skill for you. Look elsewhere.
 - If your task is tiny (like "what should I have for lunch in the next 10 minutes"), don't waste mommy's time. Use it for things that actually need planning.
 
